@@ -1,3 +1,4 @@
+Sweet:
 Lemon Meringue
 Blueberry
 Banana Cream
@@ -11,3 +12,8 @@ French Silk
 Sweet Potato
 Mince Meat
 Coconut Cream
+Peanut Butter
+
+Savory:
+Mushroom and Cabbage
+Potato and Chorizo
